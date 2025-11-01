@@ -1,0 +1,1 @@
+{"train_size": 5216, "val_size": 16, "test_size": 624, "classes": ["NORMAL", "PNEUMONIA"], "class_to_idx": {"NORMAL": 0, "PNEUMONIA": 1}, "image_size": [224, 224], "batch_size": 32}
